@@ -5,3 +5,6 @@ Script2exe functions by packaging the original VBScript as an encrypted resource
 This is an IDA Python script that will run a script2exe packed script in a debugger and will dump out the RC4 encryption key and the plaintext version of the VBScript for analysis.
 
 Tested on IDA 6.95.
+
+
+More information is available on our blog https://www.politoinc.com/single-post/2017/11/03/Unpacking-script2exe-Malware
